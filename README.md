@@ -3,7 +3,9 @@ This is my tensorflow implementation for the paper, [A Neural Algorithm of Artis
 
 ## Requirements
 Python 3.7
+
 Packages : tensorflow 2, numpy, PILLOW, 
+
 Data : Kera's pretrained VGG19 
 
 <!-- GETTING STARTED -->
