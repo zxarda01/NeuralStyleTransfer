@@ -15,9 +15,8 @@ Decide the parameters
 - training parameters
 
 ## Examples 
-![Test Image 1](3DTest.png)
-![Test Image 2](3DTest.png)
-![Test Image 3](3DTest.png)
+![Test Image 1](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/Example1.png)
+![Test Image 2]https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/Example2.png)
 
 <!-- CONTACT -->
 ## Contact
