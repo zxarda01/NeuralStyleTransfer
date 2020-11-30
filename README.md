@@ -1,5 +1,5 @@
 ## NeuralStyleTransfer
-This is my tensorflow implementation for the paper, A Neural Algorithm of Artistic Style. I use Adam optimizer instead of L-BFGS to save some implementation times. 
+This is my tensorflow implementation for the paper, [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576). I use Adam optimizer instead of L-BFGS to save some implementation times. 
 
 ## Requirements
 Python 3.7
