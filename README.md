@@ -2,7 +2,8 @@
 This is my tensorflow implementation for the paper, A Neural Algorithm of Artistic Style. I use Adam optimizer instead of L-BFGS to save some implementation times.
 
 ## Built With
-Python Packages : tensorflow 2, numpy, PILLOW, and with kera's pretrained VGG19 
+Python 3.7
+Packages : tensorflow 2, numpy, PILLOW, and with kera's pretrained VGG19 
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -24,8 +25,6 @@ This result is from a street view and Vincent's Stary Night
 <!-- CONTACT -->
 ## Contact
 Brandon Chen - zxarda@gmail.com
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
