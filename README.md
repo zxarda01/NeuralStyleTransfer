@@ -1,9 +1,10 @@
 ## NeuralStyleTransfer
 This is my tensorflow implementation for the paper, A Neural Algorithm of Artistic Style. I use Adam optimizer instead of L-BFGS to save some implementation times.
 
-## Built With
+## Requirements
 Python 3.7
-Packages : tensorflow 2, numpy, PILLOW, and with kera's pretrained VGG19 
+Packages : tensorflow 2, numpy, PILLOW, 
+Data : Kera's pretrained VGG19 
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -30,6 +31,7 @@ Brandon Chen - zxarda@gmail.com
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 Pictures and Gram Matrix implementation is from [Google's tutorial](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb#scrollTo=GM6VEGrGLh62) and [Another Google tutorial](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb#scrollTo=ES9dC6ZyJBD2)
 
 Training Structure is adepted from [Geeksforgeeks's turorial](https://www.geeksforgeeks.org/neural-style-transfer-with-tensorflow/)
