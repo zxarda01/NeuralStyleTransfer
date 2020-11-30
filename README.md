@@ -15,8 +15,11 @@ Decide the parameters
 - training parameters
 
 ## Examples 
+Combine a yellow labrador picture and Wassily Kandinsky's Composition 7
 ![Test Image 1](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/Example1.png)
-![Test Image 2]https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/Example2.png)
+
+This result is from a street view and Vincent's Stary Night
+![Test Image 2](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/Example2.png)
 
 <!-- CONTACT -->
 ## Contact
@@ -26,6 +29,6 @@ Brandon Chen - zxarda@gmail.com
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-Pictures and Gram Matrix implementation is from [Google's tutorial](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb#scrollTo=GM6VEGrGLh62) and [the other tutorial](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb#scrollTo=ES9dC6ZyJBD2)
+Pictures and Gram Matrix implementation is from [Google's tutorial](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb#scrollTo=GM6VEGrGLh62) and [Another Google tutorial](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb#scrollTo=ES9dC6ZyJBD2)
 
 Training Structure is adepted from [Geeksforgeeks's turorial](https://www.geeksforgeeks.org/neural-style-transfer-with-tensorflow/)
