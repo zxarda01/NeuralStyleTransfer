@@ -6,7 +6,7 @@ Python 3.6.9
 
 Packages : Tensorflow, Numpy, Pillow, 
 
-Data : Kera's pretrained VGG19 
+Model : Kera's pretrained VGG19 
 
 <!-- GETTING STARTED -->
 ## Getting Started
