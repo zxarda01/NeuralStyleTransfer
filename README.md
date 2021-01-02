@@ -21,6 +21,10 @@ Decide the parameters
 ## Examples 
 Combine a yellow labrador picture and Wassily Kandinsky's Composition 7
 
+![Test Image 3](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/YellowLabradorLooking_new.jpg)
+
+![Test_Image_4](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/Vassily_Kandinsky_Composition_7.jpg)
+
 ![Test Image 1](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/Example1.png)
 
 This result is from a street view and Vincent's Stary Night
