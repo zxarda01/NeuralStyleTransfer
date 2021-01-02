@@ -21,9 +21,9 @@ Decide the parameters
 ## Examples 
 Combine a yellow labrador picture and Wassily Kandinsky's Composition 7
 
-![Test Image 3](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/YellowLabradorLooking_new.jpg | width=100)
+![Test Image 3](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/YellowLabradorLooking_new.jpg){:height="50%" width="50%"}
 
-![Test_Image_4](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/Vassily_Kandinsky_Composition_7.jpg| width=100)
+![Test_Image_4](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/Vassily_Kandinsky_Composition_7.jpg| width=100){:height="50%" width="50%"}
 
 ![Test Image 1](https://github.com/zxarda01/NeuralStyleTransfer/blob/main/Examples/Example1.png)
 
